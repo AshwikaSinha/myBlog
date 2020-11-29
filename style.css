@@ -123,3 +123,24 @@ a {
 .article:hover {
     color:fuchsia;
 }
+img {
+transition: transform .2s;
+    border-right: 20px;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#about{
+    background-color: aliceblue;
+}
+#inspiration{
+    background-color: aquamarine;
+}
+#favourite coders{
+    background-color: orchid;
+}
+#my works{
+    background-color: red;
+}
